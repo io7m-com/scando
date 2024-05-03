@@ -15,7 +15,7 @@
   <artifactId>com.io7m.scando.cmdline</artifactId>
   <description>Ultra-minimalist semantic versioning checker (Command-line)</description>
   <name>com.io7m.scando.cmdline</name>
-  <url>https://www.github.com/io7m/scando</url>
+  <url>https://www.io7m.com/software/scando</url>
 
   <dependencies>
     <dependency>

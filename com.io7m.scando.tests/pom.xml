@@ -15,12 +15,13 @@
   <artifactId>com.io7m.scando.tests</artifactId>
   <description>Ultra-minimalist semantic versioning checker (Test suite)</description>
   <name>com.io7m.scando.tests</name>
-  <url>https://www.github.com/io7m/scando</url>
+  <url>https://www.io7m.com/software/scando</url>
 
   <properties>
-    <mdep.analyze.skip>true</mdep.analyze.skip>
+    <bnd.baseline.skip>true</bnd.baseline.skip>
     <checkstyle.skip>true</checkstyle.skip>
-    <jacoco.skip>true</jacoco.skip>
+    <mdep.analyze.skip>true</mdep.analyze.skip>
+    <spotbugs.skip>true</spotbugs.skip>
   </properties>
 
   <dependencies>
