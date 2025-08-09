@@ -25,7 +25,7 @@ A trivial command-line wrapper around [japicmp](https://siom79.github.io/japicmp
   * Compare `jar` files for semantic versioning conformance.
   * Compare Android `aar` files for semantic versioning conformance.
   * Powered by [japicmp](https://github.com/siom79/japicmp).
-  * High-coverage automated test suite.</li>
+  * High-coverage automated test suite.
   * ISC license.
 
 ### Building
