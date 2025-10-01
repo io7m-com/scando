@@ -27,7 +27,7 @@
   <properties>
     <io7m.api.previousVersion>1.0.0</io7m.api.previousVersion>
     <io7m.java.targetJavaVersion>17</io7m.java.targetJavaVersion>
-    <org.junit.version>5.13.4</org.junit.version>
+    <org.junit.version>5.14.0</org.junit.version>
   </properties>
 
   <licenses>
